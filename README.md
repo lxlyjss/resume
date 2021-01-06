@@ -3,6 +3,20 @@
 - 邮箱：lxlin0172@163.com
 - 手机：18500301496
 - github：https://github.com/lxlyjss
+
+# 技能清单
+
+以下为熟练使用的技能
+
+> 前后端分离、构建、组件化、模块化、状态管理、持续集成、自动化、脚手架
+
+- `Web`开发：`HTML、javascript、CSS、NodeJs`
+- 前端技术：`SPA、SEO、PWA、ServiceWorker、ES6、Canvas、SVG、Flex、JSON`
+- 前端框架：`Vue、React、mpVue、Bootstrap、Koa2、Express、Mongodb`
+- 前端工具：`Webpack、Yarn、Npm、Gulp、Sass、Less、DevTools`
+- 版本管理、自动化工具：`Git、Svn、TravisCi、CircleCi、Lint-staged、Shell`
+- 网络相关：`MQTT、Websocket、HTTPs/2、CDN、DNS、Cache`
+- 开发工具：`Mac、VSCode、Sublime、Chrome、iTerm/Hyper、Sketch、Postman`
 ## 工作经历
 ### 美术宝
 
