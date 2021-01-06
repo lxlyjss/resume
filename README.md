@@ -4,27 +4,29 @@
 - 手机：18500301496
 - github：https://github.com/lxlyjss
 
-# 技能清单
+## 技能掌握
 
-以下为熟练使用的技能
-
-> 前后端分离、构建、组件化、模块化、状态管理、持续集成、自动化、脚手架
-
-- `Web`开发：`HTML、javascript、CSS、NodeJs`
-- 前端技术：`SPA、SEO、PWA、ServiceWorker、ES6、Canvas、SVG、Flex、JSON`
-- 前端框架：`Vue、React、mpVue、Bootstrap、Koa2、Express、Mongodb`
-- 前端工具：`Webpack、Yarn、Npm、Gulp、Sass、Less、DevTools`
-- 版本管理、自动化工具：`Git、Svn、TravisCi、CircleCi、Lint-staged、Shell`
-- 网络相关：`MQTT、Websocket、HTTPs/2、CDN、DNS、Cache`
-- 开发工具：`Mac、VSCode、Sublime、Chrome、iTerm/Hyper、Sketch、Postman`
+- 基础：`HTML、Javascript、CSS、ES5/ES6、Canvas、SVG、JSON、JQuery、Nodejs`
+- 框架：`Vue、Vue-next、Vue-cli、React、Taro、Vant、Element-UI、Express、Mongdb`
+- 工具：`Yarn、Npm、Gulp、Webpack、Stylus、Sass、Less、Babel、Eslint、Prettier、Git、Svn`
+- 辅助：`VSCode、WebStorm、Sublime-Text3、Chrome、Postman、Charles、Fiddler、iTerm、Wechat Devtools`
 ## 工作经历
+
 ### 美术宝
 
 > 2020.03 - 至今
 
-- 负责老师招聘、培训、成长系统的从零开发和持续迭代工作，负责h5页面的开发维护，接口对接，移动设备的兼容等。
-- 根据 UI 提供的设计稿，完美还原页面及其交互效果，设计方案兼容多尺寸移动设备。
-- 提高近60%的老师招聘效率，解决了传统通过微信人工招聘老师存在的各种弊端。
+- 负责老师招聘、培训、成长系统的产品功能方案实现，开发维护和持续迭代工作。
+- 设计开发统一兼容多尺寸移动设备功能，不同项目之间互不影响。
+- 对vant-ui进行二次封装，开发统一样式的公共组件。
+- 封装高复用jsbridge，实现app与h5交互通信。
+
+
+#### 美术宝老师招聘、培训、成长系统
+```
+
+```
+技术栈：`Vue、Vant、Vue-cli、Webpack、Axios、Vuex`
 
 ### 三体云动
 
